@@ -5,6 +5,6 @@ function BoardMember (name, homeState, traing){
   this.veto = function(){console.log(`Hello everybody, my name is ${this.name}!`);}
   this.approve = function(){console.log(`Hello everybody, my name is ${this.name}!`);}
   this.doCharity = function(){console.log(`Hello everybody, my name is ${this.name}!`);}
-  this.releasePressStatement = function(){console.log(`Hello everybody, my name is ${this.name}!`);}
+  this.releasePressStatement = function(){console.log(`You will see great things from Scuber.`);}
   this.sayHi = function(){console.log(`Hi, my name is ${this.name}. I am from ${this.homeState}, and I was trained in ${this.training}!`);}
 }
