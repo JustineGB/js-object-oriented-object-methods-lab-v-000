@@ -5,7 +5,7 @@ function BoardMember (name, homeState, traing){
   this.veto = function(){console.log(`Hello everybody, my name is ${this.name}!`);}
   this.approve = function(){console.log(`Hello everybody, my name is ${this.name}!`);}
   this.doCharity = function(){console.log(`Hello everybody, my name is ${this.name}!`);}
-  this. = function(){console.log(`Hello everybody, my name is ${this.name}!`);}
-  this.veto = function(){console.log(`Hello everybody, my name is ${this.name}!`);}
+  this.releasePressStatement = function(){console.log(`Hello everybody, my name is ${this.name}!`);}
+  this.sayHi = function(){console.log(`Hello everybody, my name is ${this.name}!`);}
 
 }
